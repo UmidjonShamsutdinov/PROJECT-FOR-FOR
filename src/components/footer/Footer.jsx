@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import footlogo from "../../assets/logo.svg"
+import footlogo from "../../assets/Logo.svg"
 import { Container } from '../../utils/Utils'
 import { Link } from 'react-router-dom'
 import { FaArrowUp } from "react-icons/fa6";
